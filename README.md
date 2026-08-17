@@ -430,5 +430,3 @@ sudo ./install auto
 ---
 
 *This CI/CD pipeline was built using AWS Free Tier services. All services used are eligible for the AWS Free Tier.*
-
-*Documentation generated for portfolio and reference purposes.*
